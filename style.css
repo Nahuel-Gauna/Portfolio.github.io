@@ -270,7 +270,10 @@ footer {
     height: 80px;
     width: 80px;
     margin: 10px;
-  }
+    background: white;
+    border-style: double;
+    border-radius: 60px;
+   }
 
   .footer-texto {
     font-size: 1.5rem;
